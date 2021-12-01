@@ -1,4 +1,4 @@
-# CMD
+# Cmd
 Type for handling CMD based Console Logs.
 
 ---
