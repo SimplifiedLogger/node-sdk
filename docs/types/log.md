@@ -1,5 +1,5 @@
 # Log
-This case is the base Logger Type for the module.
+Type for handling the base Console Logs.
 
 ---
 
