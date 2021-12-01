@@ -25,3 +25,4 @@
 <p align="center">
  <code>npm i simplified-logger@latest</code>
 </p>
+
