@@ -14,7 +14,11 @@
   Documentation
 </h2>
 
-<a align="center" href="https://simplifiedlogger.github.io/SimplifedLogs-Base/#/">View Docs</a>
+<a align="center" href="https://simplifiedlogger.github.io/SimplifedLogs-Base/#/">• View Docs</a>
+
+<br>
+
+<a align="center" href="https://twitter.com/SimpleLogger">• Follow Us</a>
 
 <hr />
 
