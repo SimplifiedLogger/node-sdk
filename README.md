@@ -26,3 +26,18 @@
  <code>npm i simplified-logger@latest</code>
 </p>
 
+<hr />
+
+<h2 align="center">
+  Example Usage
+</h2>
+
+<p align="center">
+ <code>
+   const SimpleLogs = require('simplified-logger');
+
+   SimpleLogs.log('Wow look at me', 'log')
+</code>
+</p>
+
+
