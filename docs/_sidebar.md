@@ -5,5 +5,3 @@
 
 - About
     - [Intro](/about/index)
-- Installation
-    - [Install](/install/index)
