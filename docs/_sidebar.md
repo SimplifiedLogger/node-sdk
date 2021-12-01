@@ -5,3 +5,6 @@
 
 - About
     - [Intro](/about/index)
+- Types
+    - [Intro](/types/intro)
+    - [Log](/types/log)  
