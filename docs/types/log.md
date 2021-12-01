@@ -33,7 +33,7 @@ module.exports = async (client) => {
 ---
 
 ## Example Response
-```
+```terminal
 [Logger] - Date: 11-30-2021
 Type: log
 Message: Something cool happened!
