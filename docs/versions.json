@@ -1,0 +1,25 @@
+{
+    "last": "3",
+    "versions": [
+        {
+            "version": "v1.0.3",
+            "changes": "Updated the File Structure",
+            "date": "11-30-2021"
+        },
+        {
+            "version": "v1.0.2",
+            "changes": "Update SimpleLogs Class",
+            "date": "11-30-2021"
+        },
+        {
+            "version": "v1.0.1",
+            "changes": "Create the base NPM Module",
+            "date": "11-30-2021"
+        },
+        {
+            "version": "v1.0.0",
+            "changes": "I dont even know",
+            "date": "11-30-2021"
+        }
+    ]
+}
