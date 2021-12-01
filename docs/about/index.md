@@ -1,4 +1,4 @@
-![banner](img/SimplifiedLoggerBanner.png)
+![banner](https://cdn.discordapp.com/attachments/653733403841134600/915409823569416192/SimplifiedLoggerBanner.png)
 
 # About
 Simplified Logger is a NPM Module made to provide users
