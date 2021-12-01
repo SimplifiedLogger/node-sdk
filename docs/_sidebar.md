@@ -7,5 +7,11 @@
     - [Intro](/about/index)
 - Types
     - [Intro](/types/intro)
+    - [Default](/types/default)
+    - [Cmd](/types/cmd)
+    - [Debug](/types/debug)
+    - [Error](/types/error)
+    - [Event](/types/event)
     - [Log](/types/log)
+    - [Ready](/types/ready)
     - [Warn](/types/warn)  
