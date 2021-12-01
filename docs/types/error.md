@@ -35,6 +35,6 @@ const SimpleLogs = require('simplified-logger');
 ## Example Response
 ```terminal
 [Logger] - Date: 11-30-2021
-Type: log
+Type: error
 Message: Error Occured!
 ```
