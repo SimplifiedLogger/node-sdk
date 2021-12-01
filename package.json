@@ -1,13 +1,14 @@
 {
-    "name": "@simplifiedlogs/base",
-    "version": "1.0.0",
-    "description": "./dist/index.js",
+    "name": "simplified-logger",
+    "version": "1.0.3",
+    "description": "Console Logs... Simplified!",
+    "main": "./dist/logger.js",
 
     "author": "TheRealToxicDev",
     "license": "CreativeCommons-4.0",
     "homepage": "",
 
-    "types": "./dist/index.d.ts",
+    "types": "./dist/logger.d.ts",
 
     "bugs": {
         "url": "git+https://github.com/SimplifiedLogger/SimplifedLogs-Base"
