@@ -5,6 +5,10 @@
 
 - About
     - [Intro](/about/index)
+- Classes
+    - [Log](/classes/intro)
+- Modules
+    - [simplified-logger](/modules/intro)
 - Types
     - [Intro](/types/intro)
     - [Default](/types/default)
