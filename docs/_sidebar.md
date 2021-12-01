@@ -1,7 +1,7 @@
 - Versions:
-    - Current: v1.0.5
-    - Stable: v1.0.5
-    - Previous: v1.0.4
+    - Current: [v1.0.5](https://github.com/SimplifiedLogger/SimplifedLogs-Base/releases)
+    - Stable: [v1.0.5](https://github.com/SimplifiedLogger/SimplifedLogs-Base/releases)
+    - Previous: [v1.0.4](https://github.com/SimplifiedLogger/SimplifedLogs-Base/releases)
 
 - About
     - [Intro](/about/index)
