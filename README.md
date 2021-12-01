@@ -14,7 +14,7 @@
   Documentation
 </h2>
 
-<a href="https://simplifiedlogger.github.io/SimplifedLogs-Base/#/">View Docs</a>
+<a align="center" href="https://simplifiedlogger.github.io/SimplifedLogs-Base/#/">View Docs</a>
 
 <hr />
 
