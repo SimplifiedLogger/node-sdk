@@ -33,7 +33,7 @@
 </h2>
 
 <p align="center">
- <code>
+ <code align="center">
    const SimpleLogs = require('simplified-logger');
 
    SimpleLogs.log('Wow look at me', 'log')
