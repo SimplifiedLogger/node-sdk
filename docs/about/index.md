@@ -18,3 +18,8 @@ const SimpleLogs = require('simplified-logger');
 
 SimpleLogs.log('Wow look at me', 'log')
 ```
+
+---
+
+## Example Response
+![sample](https://js.makes-me-horny.wtf/a27a69.png)
