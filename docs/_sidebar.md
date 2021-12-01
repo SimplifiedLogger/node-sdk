@@ -1,7 +1,7 @@
 - Versions:
-    - Current: v1.0.3
-    - Stable: v1.0.3
-    - Previous: v1.0.2
+    - Current: v1.0.5
+    - Stable: v1.0.5
+    - Previous: v1.0.4
 
 - About
     - [Intro](/about/index)
